@@ -1,0 +1,5 @@
+requests==2.21.0
+lz4>=2.1.6
+Cython>=0.29.6
+cassandra-driver>=3.17.0
+influxdb>=5.2.2

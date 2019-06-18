@@ -1,0 +1,13 @@
+[Unit]
+Description=Bridge
+After=network.target
+
+[Service]
+User=detimotic
+Group=detimotic
+WorkingDirectory=/home/detimotic/git/pei-2018-2019-g12/servers/bridge
+ExecStart=/home/detimotic/git/pei-2018-2019-g12/servers/bridge/venv/bin/python3 bridge.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

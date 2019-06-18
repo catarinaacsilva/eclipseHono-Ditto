@@ -1,0 +1,104 @@
+.chart {
+  min-width: 310px;
+  height: 375px; 
+  margin: 0 auto
+}
+
+.spacer {
+  height: 20px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+p {
+  word-wrap: break-word;
+  width: 750px;
+  margin-top: 0;
+  text-align: justify;
+}
+
+body {
+  font: 22px georgia, sans-serif;
+  color: #555753;
+  margin: 0 0px 100px
+}
+
+header {
+  height: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#wrap {
+  min-height: -webkit-calc(100% - 100px);/* Chrome */
+  min-height: -moz-calc(100% - 100px);   /* Firefox */
+  min-height: calc(100% - 100px);        /* native */
+}
+
+footer {
+  position: absolute;
+  clear:both;
+  bottom: 0;
+  width: 100%;
+  height: 75px;
+  background-color: #f5f5f5;
+  overflow:hidden;
+}
+
+.img-responsive{
+  height:100%;
+  width:auto;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonB {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.buttonR {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+tr:hover {background-color: #f5f5f5;}

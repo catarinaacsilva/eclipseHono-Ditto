@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve mgt_portal
+After=network.target
+
+[Service]
+User=detimotic
+Group=www-data
+WorkingDirectory=/home/detimotic/git/pei-2018-2019-g12/servers/mgt_portal
+Environment="PATH=/home/detimotic/git/pei-2018-2019-g12/servers/mgt_portal/venv/bin"
+ExecStart=/home/detimotic/git/pei-2018-2019-g12/servers/mgt_portal/venv/bin/uwsgi --ini mgt_portal.ini
+
+[Install]
+WantedBy=multi-user.target

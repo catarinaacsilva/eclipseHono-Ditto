@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://code.highcharts.com/highcharts.js"></script> 
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="http://code.highcharts.com/modules/solid-gauge.js"></script>
+    <script>if(typeof Highcharts == "undefined") {document.write('<script src="js/fallback/highcharts-custom.src.js"><\/script>');}</script>
+    <script type="text/javascript" src="js/dash.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/default.css">
+    <link rel="icon" type="image/ico" href="images/favicon.ico">
+    <meta charset="UTF-8">
+    <title>Laptop Monitor</title>
+  </head>
+  <body onload="setup('ws://detimotic:detimotic@192.168.85.204:8080/ws/2');">
+    <header>
+      <h1>Laptop Monitor</h1>
+    </header>
+
+    <div id="chartTemp" class="chart"></div>
+    <div class="spacer"></div>
+    <div id="chartRPM" class="chart"></div>
+
+    <footer>
+      <a href="https://it.pt/Groups/Index/19">
+        <img class=img-responsive src="images/logoUA.png"/>
+      </a>
+    </footer>
+  </body>
+</html>
