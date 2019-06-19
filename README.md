@@ -9,10 +9,13 @@ We intend to achieve this by designing the IoT ecosystem for DETI and providing 
 In practice, this implies installing a sensor infrastructure and developing an API that provides access to the generated data. 
 Additionally, we'll be making a system with a set of simple use cases to exemplify possible applications.
 
+## Architecture
+
+![platform]({filename}/eclipseHono_Ditto/img/detimotic00.png)
+
 ## Table of Content
 
 1. [Setup](setup/README.md)
 2. [API](api/REAME.md)
 3. [Bridge](bridge/README.md)
-4. [Device Mapper](device_mapper/REAME.md)
-5. [Management Portal](portal/README.md)
+4. [Management Portal](portal/README.md)

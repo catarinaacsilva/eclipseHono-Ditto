@@ -1,9 +1,7 @@
 # DETImotic (website)
 
 ## Introduction
-The project website describes the project and presents the system and team.
-
-The project page can be accessed [here]().
+The project website describes the project.
 
 
 ## Installation
