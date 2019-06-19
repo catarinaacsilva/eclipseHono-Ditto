@@ -51,29 +51,8 @@ The page was generated using [Pelican](https://docs.getpelican.com/en/stable/qui
 ## To publish
 In folder the website:
 
-`make ssh_upload`
+`make ssh_upload`     
 
 
-## Acces to the server xcoa
-The server can be accessed through SSH:
-
-`ssh -l pei2018-2019_p012 xcoa.av.it.pt`
-
-
-| Credencials   | Value          
-| ------------- |:-------------:
-| login         | pei2018-2019_g012
-| password      | DETIMOTIC1819_      
-
-## Access after being published
-Access this
-[link](http://xcoa.av.it.pt/~pei2018-2019_g012/)
-
-##Requirements
+## Requirements
 - All static files (HTML, Images, JS, CSS, etc…) files must belong to the group www-data so that the server can access those files.
-
-## List of TODOs
-
-- [x] Insert text about architecture, client, developer, manual, requirements and tests, specification, vision and scenarios
-- [x] Publish on xcoa
-- [ ] Create page for sensors progress 
