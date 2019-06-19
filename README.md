@@ -11,7 +11,7 @@ Additionally, we'll be making a system with a set of simple use cases to exempli
 
 ## Architecture
 
-![platform]({filename}/eclipseHono_Ditto/img/detimotic00.png)
+![platform]({filename}/img/detimotic00.png)
 
 ## Table of Content
 
