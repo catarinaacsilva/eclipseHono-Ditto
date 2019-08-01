@@ -3,11 +3,10 @@
 ## Introduction
 
 DETImotic is a project about domotics and IoT.
-The main goal is to improve the usage of DETI's infrastructure and equipment.
-We intend to achieve this by designing the IoT ecosystem for DETI and providing useful documentation for future development.
 
-In practice, this implies installing a sensor infrastructure and developing an API that provides access to the generated data. 
-Additionally, we'll be making a system with a set of simple use cases to exemplify possible applications.
+In practice, this project implies installing a sensor infrastructure and developing an API that provides access to the generated data.
+
+It's possible in this repository see the code of API and platform to control (install, monitoring and analysis) the sensors.
 
 ## Architecture
 
