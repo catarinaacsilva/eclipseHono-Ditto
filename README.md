@@ -10,7 +10,7 @@ It's possible in this repository see the code of API and platform to control (in
 
 ## Architecture
 
-![platform]({filename}./img/detimotic00.png)
+![platform]({filename}/img/detimotic00.png)
 
 ## Table of Content
 
