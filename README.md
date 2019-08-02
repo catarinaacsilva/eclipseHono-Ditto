@@ -1,8 +1,8 @@
-# Eclipse Hono, Eclipse Ditto, influxdb
+# DETImotic
 
 ## Introduction
 
-Project about domotics and IoT.
+DETImotic is a project about domotics and IoT.
 
 In practice, this project implies installing a sensor infrastructure and developing an API that provides access to the generated data.
 
