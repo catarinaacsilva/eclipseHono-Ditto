@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DETImotic is a project about domotics and IoT.
+Project about domotics and IoT.
 
 In practice, this project implies installing a sensor infrastructure and developing an API that provides access to the generated data.
 
