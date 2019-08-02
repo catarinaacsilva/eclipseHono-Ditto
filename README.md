@@ -1,4 +1,4 @@
-# DETImotic (server) 
+# Eclipse Hono, Eclipse Ditto, influxdb
 
 ## Introduction
 
