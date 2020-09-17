@@ -15,6 +15,6 @@ It is possible in this repository see the code of API and platform to control (i
 ## Table of Content
 
 1. [Setup](setup/README.md)
-2. [API](api/REAME.md)
+2. [API](api/README.md)
 3. [Bridge](bridge/README.md)
 4. [Management Portal](mgt_portal/README.md)
