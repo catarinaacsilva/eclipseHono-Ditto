@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DETImotic is a project about domotics and IoT developed at Instituto de Telecomunicações and at University of Aveiro.
+DETImotic is a project about domotics and IoT developed at Instituto de Telecomunicações and University of Aveiro.
 
 In practice, this project implies installing a sensor infrastructure and developing an API that provides access to the generated data.
 
