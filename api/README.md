@@ -1,4 +1,4 @@
-#DETIMotic API
+# DETIMotic API
 
 Python library that contains several wrappers for the DETIMotic platform.
 Furthermore, it contains methods to automatically map any JSON into InFluxDB data points and Ditto Incoming Mapping function.
