@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 lz4>=2.1.6
 Cython>=0.29.6
 cassandra-driver>=3.17.0
